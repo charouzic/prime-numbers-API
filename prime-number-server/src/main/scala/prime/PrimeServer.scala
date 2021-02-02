@@ -13,7 +13,7 @@ object PrimeServer {
     val conf = ConfigFactory
       .parseString("akka.http.server.preview.enable-http2 = on")
       .withFallback(ConfigFactory.defaultApplication())
-    val system = ActorSystem("Fibonacci", conf)
+    val system = ActorSystem("Prime", conf)
     new PrimeServer(system).run()
   }
 }

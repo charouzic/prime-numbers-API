@@ -1,4 +1,5 @@
 package prime
+
 import akka.NotUsed
 import akka.stream.scaladsl.Source
 
