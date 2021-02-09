@@ -61,8 +61,8 @@ b) running the proxy-server
 (Both services are of course possible to run from an IDE like Intellij IDEA)
 
 ## TODOS for Future me
-* Create a docker to run this solution in -> making it easier to run both services simultaneusly without starting them one by one
+* Create a docker file to run this solution in -> making it easier to run both services simultaneusly without starting them one by one
 
-* Adapt the code to run the solution using the most up to date version of akka-http because now it runs on the older version
+* Adapt the code to run the solution using the most up to date version of akka because now it runs on the older version (2.5.31)
 
 * Create integration tests that would check both services for possible errors with every single push and pull request
