@@ -1,5 +1,5 @@
 # prime-numbers-API
-Hello! This repository is a solution for technical task for Backend Engineer at Dixa. Inside lie two services - one called prime-number-server which calculates 
+Hello! Inside this repository lie two services - one called prime-number-server which calculates 
 list of prime numbers up to a specified number and proxy-server which exposes an API endpoint and returns the values. The communication between those two services
 is via gRPC. Each of the service contains unit test.
 
