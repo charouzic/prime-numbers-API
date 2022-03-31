@@ -5,8 +5,7 @@ is via gRPC. Each of the service contains unit test.
 
 ## Implementation choices
 ### Languague and IDE
-I did not have previous experience with Java or Scala so I chose Scala for this project as it is the main technology used in Dixa. 
-I liked its syntax, flexibility, possibility to write in an object oriented as well as functional way. I look forward to get closer to the syntax even more
+I liked the syntax of scala, flexibility, possibility to write in an object oriented as well as functional way. I look forward to get closer to the syntax even more
 and especially to leverage all the functional capabilities. As an IDE I chose [Intellij Idea](https://www.jetbrains.com/idea/) from jetbrains which I really liked and for a person without
 Scala or Java background the environment was nice and helpful with all the possibilities, shortucts, etc. I also used the recommended sbt tool for creating the
 projects which helped a lot with all the settings.
